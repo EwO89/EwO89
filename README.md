@@ -6,7 +6,7 @@
 
 
 ## 🚀 About me
-I study in MISIS (Moscow university) , develop in the field of programming, in addition to professional hobby I am engaged in psychology, visit the gym, lead an active and healthy lifestyle.
+I study at the university MISIS (Moscow university) , develop in the field of programming, in addition to professional hobby I am engaged in psychology, visit the gym, lead an active and healthy lifestyle.
 
 - 🌱 Constantly improving in languages:: **Python, HTML&CSS,C#,JavaScript,SQL **
 - 📫 Contact e-mail: [Почта](mailto:andrej.kazannikov@gmail.com)
