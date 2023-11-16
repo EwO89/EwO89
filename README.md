@@ -1,4 +1,4 @@
-![image](https://github.com/EwO89/EwO89/assets/139001963/484efdfc-fd60-499c-beb9-a5a8db38d2c3.png)
+![image](https://github.com/EwO89/EwO89/blob/main/github-header-image%20(1).png)
 
 
 ![GitHub followers](https://img.shields.io/github/followers/EwO89?style=social)
