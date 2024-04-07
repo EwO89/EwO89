@@ -12,12 +12,12 @@ I study at the university MISIS (Moscow university) , develop in the field of pr
 - 📫 Contact e-mail: [Почта](mailto:andrej.kazannikov@gmail.com)
 
 
-### Programming languages learned
+### Tech skills
 
 <img src="https://img.shields.io/badge/Python-F08080?style=for-the-badge&logo=pythonB&logoColor=red" /> <img src="https://img.shields.io/badge/HTML-FFFAFA?style=for-the-badge&logo=htmlB&logoColor=red" /> <img src="https://img.shields.io/badge/CSS-DAA520?style=for-the-badge&logo=CSSB&logoColor=red" /> <img src="https://img.shields.io/badge/JavaScript-8B008B?style=for-the-badge&logo=javascriptB&logoColor=red" /> <img src="https://img.shields.io/badge/SQL-008000?style=for-the-badge&logo=SQLB&logoColor=red" />
 
 
-### Frameworks and libraries
+### Frameworks and libraries learned on Python/Javacript
 
 <img src="https://img.shields.io/badge/Flask-32CD32?style=for-the-badge&logo=flaskB&logoColor=red" /> <img src="https://img.shields.io/badge/Django-FFFF00?style=for-the-badge&logo=DjangoB&logoColor=red" /> <img src="https://img.shields.io/badge/React-00FFFF?style=for-the-badge&logo=ReactB&logoColor=red" /> <img src="https://img.shields.io/badge/Vue.js-7B68EE?style=for-the-badge&logo=Vue.jsB&logoColor=red" />
 
