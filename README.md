@@ -6,7 +6,7 @@
 
 
 ## 🚀 About me
-I am studying at the National University of Science and Technology 'MISIS' in Moscow, continually honing my skills in programming. Beyond my academic interests, I am passionate about psychology, enjoy reading books, and love meeting new people to expand my horizons and enhance my cultural understanding. I also make it a point to regularly work out at the gym and lead an active and healthy lifestyle, which helps me maintain my physical and psychological well-being.
+I am a first-year student at the Institute of Computer Sciences at the National University of Science and Technology 'MISIS' in Moscow. Alongside my academic studies, I am dedicated to continually enhancing my programming skills, with a specific focus on backend development using Python. Beyond academia and my involvement in web and backend projects, I have a keen interest in psychology and a love for reading books. I enjoy meeting new people, which aids in expanding my worldview and elevating my cultural awareness. Additionally, I regularly exercise at the gym and lead an active, healthy lifestyle to maintain my physical and mental well-being.
 
 - 🌱 Constantly improving in languages: **Python**
 - 📫 Contact e-mail: [Почта](mailto:andrej.kazannikov@gmail.com)
@@ -34,12 +34,15 @@ I am studying at the National University of Science and Technology 'MISIS' in Mo
 ![EwO89's GitHub stats](https://github-readme-stats.vercel.app/api?username=EwO89&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EwO89&theme=radical&layout=compact)
 
-## 🏆 My achievements
+
 
 
 
 
 ## 👨‍💻 Projects
+1. 2D Platfomer (Game)
+2. Multi-page website (Web application)
+3. CRM (Web application)
 
 
 
