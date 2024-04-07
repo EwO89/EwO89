@@ -11,21 +11,6 @@ I study at the university MISIS (Moscow university) , develop in the field of pr
 - 🌱 Constantly improving in languages:: **Python, HTML&CSS,C#,JavaScript,SQL **
 - 📫 Contact e-mail: [Почта](mailto:andrej.kazannikov@gmail.com)
 
-## 🛠️ Skills:
--- Hard skills:
-
-  Data Science: Python (Pandas, NumPy, SciPy), R, Jupyter Notebooks
-  
--- Soft Skills:
-
-  Communication: Effective communication with teams and clients.
-
-  Teamwork: Ability to successfully interact and collaborate across teams.
-
-  Problem Solving: Ability to analyze and solve complex problems.
-
-  Project Management: Experience in using Agile and Scrum methodologies
-
 
 ### Programming languages learned
 
