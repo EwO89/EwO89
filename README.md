@@ -8,7 +8,7 @@
 ## 🚀 About me
 I am studying at the National University of Science and Technology 'MISIS' in Moscow, continually honing my skills in programming. Beyond my academic interests, I am passionate about psychology, enjoy reading books, and love meeting new people to expand my horizons and enhance my cultural understanding. I also make it a point to regularly work out at the gym and lead an active and healthy lifestyle, which helps me maintain my physical and psychological well-being.
 
-- 🌱 Constantly improving in languages:: **Python**
+- 🌱 Constantly improving in languages: **Python**
 - 📫 Contact e-mail: [Почта](mailto:andrej.kazannikov@gmail.com)
 
 
