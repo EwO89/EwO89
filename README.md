@@ -19,7 +19,8 @@ I am studying at the National University of Science and Technology 'MISIS' in Mo
 
 ### Frameworks and Libraries Learned in Python/JavaScript
 
-<img src="https://img.shields.io/badge/Flask-32CD32?style=for-the-badge&logo=flaskB&logoColor=red" /> <img src="https://img.shields.io/badge/Django-FFFF00?style=for-the-badge&logo=DjangoB&logoColor=red" /> <img src="https://img.shields.io/badge/React-00FFFF?style=for-the-badge&logo=ReactB&logoColor=red" /> <img src="https://img.shields.io/badge/Vue.js-7B68EE?style=for-the-badge&logo=Vue.jsB&logoColor=red" />
+<img src="https://img.shields.io/badge/Flask-32CD32?style=for-the-badge&logo=flaskB&logoColor=red" /> <img src="https://img.shields.io/badge/Django-FFFF00?style=for-the-badge&logo=DjangoB&logoColor=red" /> <img src="https://img.shields.io/badge/React-00FFFF?style=for-the-badge&logo=ReactB&logoColor=red" /> <img src="https://img.shields.io/badge/Vue.js-7B68EE?style=for-the-badge&logo=Vue.jsB&logoColor=red" /> <img src="![Docker Pulls](https://img.shields.io/docker/pulls/:user/:repo) />
+
 
 
 
