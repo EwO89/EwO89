@@ -2,7 +2,7 @@
 
 
 ![GitHub followers](https://img.shields.io/github/followers/EwO89?style=social)
-[![Telegram](path-to-telegram-icon.png)](https://t.me/EwO_889)
+[![Telegram]([path-to-telegram-icon.png](https://patrolavia.github.io/telegram-badge/chat.png))](https://t.me/EwO_889)
 
 
 ## 🚀 About me
@@ -14,7 +14,8 @@ I am a first-year student at the Institute of Computer Sciences at the National 
 
 ### Tech skills
 
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> <img src="https://img.shields.io/badge/HTML-FFFAFA?style=for-the-badge&logo=htmlB&logoColor=red" /> <img src="https://img.shields.io/badge/CSS-DAA520?style=for-the-badge&logo=CSSB&logoColor=red" /> <img src="https://img.shields.io/badge/JavaScript-8B008B?style=for-the-badge&logo=javascriptB&logoColor=red" /> <img src="https://img.shields.io/badge/SQL-008000?style=for-the-badge&logo=SQLB&logoColor=red" /> <img src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /> ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> <img src="https://img.shields.io/badge/HTML-FFFAFA?style=for-the-badge&logo=htmlB&logoColor=red" /> <img src="https://img.shields.io/badge/CSS-DAA520?style=for-the-badge&logo=CSSB&logoColor=red" /> <img src="https://img.shields.io/badge/JavaScript-8B008B?style=for-the-badge&logo=javascriptB&logoColor=red" /> <img src="https://img.shields.io/badge/SQL-008000?style=for-the-badge&logo=SQLB&logoColor=red" /> <img src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /> ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) {{< badge color=amber text="amber badge" >}}
+[{{< badge color="blue" text="badge with a link" >}}](../overview.md)
 
 
 ### Frameworks and Libraries Learned in Python/JavaScript
