@@ -1,4 +1,4 @@
-![image](https://github.com/EwO89/EwO89/blob/main/github-header-image%20(1).png)
+[![image](https://github.com/EwO89/EwO89/blob/main/github-header-image%20(1).png)](https://github.com/EwO89/EwO89/blob/main/github-header-image%2011(1).png)
 
 
 ![GitHub followers](https://img.shields.io/github/followers/EwO89?style=social)
