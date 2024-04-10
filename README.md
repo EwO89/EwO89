@@ -42,7 +42,7 @@ I am a first-year student at the Institute of Computer Sciences at the National 
 
 
 ## 👨‍💻 Projects
-1. 2D Platfomer (Game)
+1. 2D Platformer (Game)
 2. Multi-page website (Web application)
 3. CRM (Web application)
 
