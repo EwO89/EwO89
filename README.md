@@ -8,7 +8,7 @@
 
 
 ## 🚀 About me
-I am a first-year student at the Institute of Computer Sciences at the National University of Science and Technology 'MISIS' in Moscow. Alongside my academic studies, I am dedicated to continually enhancing my programming skills, with a specific focus on backend development using Python. Beyond academia and my involvement in web and backend projects, I have a keen interest in psychology and a love for reading books. I enjoy meeting new people, which aids in expanding my worldview and elevating my cultural awareness. Additionally, I regularly exercise at the gym and lead an active, healthy lifestyle to maintain my physical and mental well-being.
+I am a student at the Institute of Computer Sciences at the National University of Science and Technology 'MISIS' in Moscow. Alongside my academic studies, I am dedicated to continually enhancing my programming skills, with a specific focus on backend development using Python. Beyond academia and my involvement in web and backend projects, I have a keen interest in psychology and a love for reading books. I enjoy meeting new people, which aids in expanding my worldview and elevating my cultural awareness. Additionally, I regularly exercise at the gym and lead an active, healthy lifestyle to maintain my physical and mental well-being.
 
 - 🌱 Constantly improving in languages: **Python**
 - 📫 Contact e-mail: [Почта](mailto:andrej.kazannikov@gmail.com)
